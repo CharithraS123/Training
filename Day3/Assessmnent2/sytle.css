@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.two {
+  position: relative;
+  left: 200px;
+  right: 250;
+  background-color: green;
+}
+.four {
+  position: absolute;
+  bottom: 2px;
+  top: 100px;
+  color: red;
+}
+.one {
+  position: position;
+  left: 100px;
+  right: 100px;
+  color: blue;
+}
+.three {
+  position: static;
+  bottom: 250px;
+  top: 100px;
+  color: violet;
+}
